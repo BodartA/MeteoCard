@@ -8,9 +8,13 @@ export default {
     extend: {
       colors: {
         shironeri: "#FCFAF2",
+        gofun: "#FFFFFB",
         sumi: "#1C1C1C",
         dobunezumi: "#4F4F48",
-        aonibi: "#535953"
+        aonibi: "#535953",
+        usuki: "#FAD689",
+        shishi: "#F0A986",
+        sabiasagi: "#6699A1"
       },
       fontFamily: {
         DM: ["DM Sans", "sans-serif"],
